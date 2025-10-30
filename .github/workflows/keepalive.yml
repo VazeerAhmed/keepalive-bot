@@ -11,3 +11,4 @@ jobs:
     steps:
       - name: Keep it awake ☕
         run: curl -s https://youtubemusic-uk7w.onrender.com/
+        run: curl -s https://vazeer-portfolio.onrender.com/
