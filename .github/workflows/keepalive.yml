@@ -13,3 +13,5 @@ jobs:
         run: curl -s https://youtubemusic-uk7w.onrender.com/
       - name: Ping Portfolio site
         run: curl -s https://vazeer-portfolio.onrender.com/
+      - name: Ping TELUGUFLIX site
+        run: https://teluguflix.onrender.com
